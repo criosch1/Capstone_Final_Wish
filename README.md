@@ -25,7 +25,8 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 **Fast Shipping Badge:** 
 *It is given to a product that can be rapidly shipped to the customer.*
 
-*Local Product Badge: if the product was made in the country of the customer.*
+**Local Product Badge:** 
+*The product was made in the country of the customer.*
 
 **Tag Count** 
 *Merchants set which tags and how many tags they want associated with their products.*
