@@ -7,9 +7,9 @@
 My name is Christian Rios-Chambi and I am a Data Analyst working for the e-commerce company Wish. My presentation will be on gauging the effectiveness of Wish’s product promotions. Wish is an American online e-commerce company. As of 2019 Wish is the third-biggest e-commerce marketplace in the United States by sales. So what makes Wish unique from it’s competitors? Instead of using traditional search bar format, customers use tags (keywords) to find the products they are looking for. Also a wide variety of merchants can list their products on Wish and can sell directly to the consumer (at high discount rates), avoiding the preverbal middlemen. There are three main product promotions that I want to investigate and I want to see if I can predict units sold using the tag count of the product.
 
 ## **Here are the promotions** 
-**Ad boosts**
-**Product badges**
-**Tag count (the number of keyword associations to a product)**
+- **Ad boosts**
+- **Product badges**
+- **Tag count (the number of keyword associations to a product)**
 
 **Ad Boost** 
 *Ad Boost is the native advertising platform of Wish Marketplace. It is a PAID SERVICE for merchants*
