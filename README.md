@@ -11,6 +11,8 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 - **Product badges**
 - **Tag count (the number of keyword associations to a product)**
 
+
+
 **Ad Boost** 
 *Ad Boost is the native advertising platform of Wish Marketplace. It is a PAID SERVICE for merchants*
 
