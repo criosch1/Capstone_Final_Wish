@@ -63,6 +63,13 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 - $37,400 average product revenue for products with ad boosts, $40,313 average product revenue for products without ad boosts.
 - *Unsuccessful Products* = 45% of products use ad boosts, *Successful Products* = 41% of products use ad boosts.
 
+## Product Badges:
+- 10% of products have a product badge.
+- Products with badges generate 34% more average revenue per product compared to products without badges.
+
+## Tag Count:
+
+
 
 
 
