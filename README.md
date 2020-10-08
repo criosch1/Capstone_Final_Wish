@@ -47,3 +47,6 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 
 ## Data Wrangling:
 
+- Remove duplicates or records with missing or mismatched values.
+- 
+
