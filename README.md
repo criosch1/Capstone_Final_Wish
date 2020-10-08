@@ -82,6 +82,11 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 - Run some tests to see if limiting the number of tag words per product would have any effect on sales.
 - More robust data is needed to implement an appropriate predication model for units sold.
 
+# Contact Information 
+- **Name:** Christian Rios-Chambi
+- **Email:** crioschambi@gmail.com
+- **LinkedIn:** linkedin.com/in/christian-rios-chambi/
+- **Github:** github.com/criosch1
 
 
 
