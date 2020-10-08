@@ -20,15 +20,19 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 *There are three product badges offered on the Wish Platform.*
 
 **Product Quality Badge:** 
+
 *it can only be given to a product that has high ratings, high sales, and a low refund ratio.*
 
 **Fast Shipping Badge:** 
+
 *It is given to a product that can be rapidly shipped to the customer.*
 
 **Local Product Badge:** 
+
 *The product was made in the country of the customer.*
 
 **Tag Count** 
+
 *Merchants set which tags and how many tags they want associated with their products.*
 
 # Objectives
