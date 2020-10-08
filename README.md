@@ -49,13 +49,13 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 
 - Remove duplicates or records with missing or mismatched values.
 - Removing unnecessary columns. 
-- replacing certain null values with appropriate zero values.
+- Replacing certain null values with appropriate zero values.
 
 ## Data Wrangling:
 
 - Created new columns for better analysis.
-- Creating functions to help label data
-- 
+- Creating functions to help label data.
+- Creating Visualizations.
 
 
 
