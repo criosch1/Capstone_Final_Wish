@@ -68,6 +68,9 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 - Products with badges generate 34% more average revenue per product compared to products without badges.
 
 ## Tag Count:
+- Most of the products have between 13 to 19 tags, 16 being the most popular number of tags.
+- Products that have a high tag count (29, 34, 37, 41) are generating a higher average product revenue than the popular 13-19 tag range.   
+
 
 
 
