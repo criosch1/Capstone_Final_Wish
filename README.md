@@ -32,10 +32,12 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 *Merchants set which tags and how many tags they want associated with their products.*
 
 # Objectives
-- Are Ad Boosts increasing product revenue?
-- Are Product Badges increasing product revenue?
-- Does Tag Count have an effect on product revenue?
+- Are ad boosts increasing product revenue?
+- Are product badges increasing product revenue?
+- Does the tag count have an effect on product revenue?
 - Can we predict the units sold of a product by just looking at its tag count?
 
 # Project Steps & Research Questions:
+
+## Data Wrangling:
 
