@@ -43,7 +43,7 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 - Does the tag count have an effect on product revenue?
 - Can we predict the units sold of a product by just looking at its tag count?
 
-# Project Steps & Research Questions:
+# Project Steps & Further Questions:
 
 ## Data Cleaning:
 
@@ -56,6 +56,8 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 - Created new columns for better analysis.
 - Creating functions to help label data.
 - Creating Visualizations.
+
+
 
 
 
