@@ -72,8 +72,11 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 - Products that have a high tag count (29, 34, 37, 41) are generating a higher average product revenue than the popular 13-19 tag range. 
 
 ## Linear Regression Model - Predicting Units Sold using Tag Count:
--
--
+- I wanted to see if a linear regression model could be created in order to predict the amount of units sold of a product.
+- Unfortunately due to the way the units sold were inputted in the dataset, there was no way to create an effective model to prediction.
+- A more robust data set is needed for this model creation.
+
+
 
 
 
