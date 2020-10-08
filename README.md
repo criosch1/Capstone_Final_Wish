@@ -58,7 +58,10 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 - Creating Visualizations.
 
 ## Ad Boosts:
-- 
+
+- 584 products with ad boosts, 757 products without ad boosts.
+- $37,400 average product revenue for products with ad boosts, $40,313 average product revenue for products without ad boosts.
+- *Unsuccessful Products* = 45% of products use ad boosts, *Successful Products* = 41% of products use ad boosts.
 
 
 
