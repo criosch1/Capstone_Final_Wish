@@ -76,6 +76,14 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 - Unfortunately due to the way the units sold were inputted in the dataset, there was no way to create an effective model to prediction.
 - A more robust data set is needed for this model creation.
 
+## Recommendations and Next Steps:
+- The Ad boost service needs to be investigated even further.
+- Inform the merchants on Wish about the effectiveness of product badges.
+- Run some tests to see if limiting the number of tag words per product would have any effect on sales.
+- More robust data is needed to implement an appropriate predication model for units sold.
+
+
+
 
 
 
