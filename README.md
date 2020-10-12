@@ -1,4 +1,4 @@
-![alt text](https://images.app.goo.gl/nr6CfBnLDgnbzTPv5)
+![alt text](https://media-assets-02.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-90538-wish_e-commerce--2x1--940.png)
 
 # Broken Wish? Gauging the Effectiveness of Wish's Product Promotion
 
