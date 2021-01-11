@@ -16,28 +16,22 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 
 
 **Ad Boost** 
-
-*Ad Boost is the native advertising platform of Wish Marketplace. It is a PAID SERVICE for merchants*
+- *Ad Boost is the native advertising platform of Wish Marketplace. It is a PAID SERVICE for merchants*
 
 **Product badges** 
-
-*There are three product badges offered on the Wish Platform.*
+- *There are three product badges offered on the Wish Platform.*
 
 **Product Quality Badge:** 
-
-*it can only be given to a product that has high ratings, high sales, and a low refund ratio.*
+- *it can only be given to a product that has high ratings, high sales, and a low refund ratio.*
 
 **Fast Shipping Badge:** 
-
-*It is given to a product that can be rapidly shipped to the customer.*
+- *It is given to a product that can be rapidly shipped to the customer.*
 
 **Local Product Badge:** 
-
-*The product was made in the country of the customer.*
+- *The product was made in the country of the customer.*
 
 **Tag Count** 
-
-*Merchants set which tags and how many tags they want to be associated with their products.*
+- *Merchants set which tags and how many tags they want to be associated with their products.*
 
 # Objectives
 - Are ad boosts increasing product revenue?
