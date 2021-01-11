@@ -6,7 +6,7 @@
 
 
 # Summary
-My name is Christian Rios-Chambi and I am a Data Analyst working for the e-commerce company Wish. My presentation will be on gauging the effectiveness of Wish’s product promotions. Wish is an American online e-commerce company. As of 2019 Wish is the third-biggest e-commerce marketplace in the United States by sales. So what makes Wish unique from it’s competitors? Instead of using traditional search bar format, customers use tags (keywords) to find the products they are looking for. Also a wide variety of merchants can list their products on Wish and can sell directly to the consumer (at high discount rates), avoiding the preverbal middlemen. There are three main product promotions that I want to investigate and I want to see if I can predict units sold using the tag count of the product.
+My name is Christian Rios-Chambi and I am a Data Analyst working for the e-commerce company Wish. My presentation will be on gauging the effectiveness of Wish’s product promotions. Wish is an American online e-commerce company. As of 2019 Wish is the third-biggest e-commerce marketplace in the United States by sales. So what makes Wish unique from its competitors? Instead of using the traditional search bar format, customers use tags (keywords) to find the products they are looking for. Also, a wide variety of merchants can list their products on Wish and can sell directly to the consumer (at high discount rates), avoiding the preverbal middlemen. There are three main product promotions that I want to investigate and I want to see if I can predict units sold using the tag count of the product.
 
 ## **Here are the promotions** 
 - **Ad boosts**
@@ -15,7 +15,7 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 
 
 
-**Ad Boost** 
+**Ad Boost** 
 
 *Ad Boost is the native advertising platform of Wish Marketplace. It is a PAID SERVICE for merchants*
 
@@ -37,7 +37,7 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 
 **Tag Count** 
 
-*Merchants set which tags and how many tags they want associated with their products.*
+*Merchants set which tags and how many tags they want to be associated with their products.*
 
 # Objectives
 - Are ad boosts increasing product revenue?
@@ -74,30 +74,18 @@ My name is Christian Rios-Chambi and I am a Data Analyst working for the e-comme
 - Products that have a high tag count (29, 34, 37, 41) are generating a higher average product revenue than the popular 13-19 tag range. 
 
 ## Linear Regression Model - Predicting Units Sold using Tag Count:
-- I wanted to see if a linear regression model could be created in order to predict the amount of units sold of a product.
-- Unfortunately due to the way the units sold were inputted in the dataset, there was no way to create an effective model to prediction.
+- I wanted to see if a linear regression model could be created in order to predict the number of units sold of a product.
+- Unfortunately due to the way the units sold were inputted in the dataset, there was no way to create an effective model to predict units sold.
 - A more robust data set is needed for this model creation.
 
 ## Recommendations and Next Steps:
 - The Ad boost service needs to be investigated even further.
 - Inform the merchants on Wish about the effectiveness of product badges.
 - Run some tests to see if limiting the number of tag words per product would have any effect on sales.
-- More robust data is needed to implement an appropriate predication model for units sold.
+- More robust data is needed to implement an appropriate prediction model for units sold.
 
 # Contact Information 
 - **Name:** Christian Rios-Chambi
 - **Email:** crioschambi@gmail.com
 - **LinkedIn:** linkedin.com/in/christian-rios-chambi/
 - **Github:** github.com/criosch1
-
-
-
-
-
-
-
-
-
-
-
-
